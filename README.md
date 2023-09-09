@@ -48,7 +48,7 @@ Feel free to reach out to me! 😊 <br />
 
 ---
 
-###### 1. What's the output?
+  ######  1. What's the output? ✅
 
 ```javascript
 function sayHi() {
@@ -80,7 +80,7 @@ Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, do
 
 ---
 
-###### 2. What's the output?
+###### 2. What's the output? ✅
 
 ```javascript
 for (var i = 0; i < 3; i++) {
@@ -110,7 +110,7 @@ In the second loop, the variable `i` was declared using the `let` keyword: varia
 
 ---
 
-###### 3. What's the output?
+###### 3. What's the output? ✅
 
 ```javascript
 const shape = {
@@ -146,7 +146,7 @@ There is no value `radius` on that object, which returns `NaN`.
 
 ---
 
-###### 4. What's the output?
+###### 4. What's the output? ✅
 
 ```javascript
 +true;
@@ -171,7 +171,7 @@ The string `'Lydia'` is a truthy value. What we're actually asking, is "is this 
 
 ---
 
-###### 5. Which one is true?
+###### 5. Which one is true? ✅
 
 ```javascript
 const bird = {
@@ -207,7 +207,7 @@ However, with dot notation, this doesn't happen. `mouse` does not have a key cal
 
 ---
 
-###### 6. What's the output?
+###### 6. What's the output? ✅
 
 ```javascript
 let c = { greeting: 'Hey!' };
